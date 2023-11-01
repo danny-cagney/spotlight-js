@@ -7,11 +7,11 @@ export const metadata = {
   title: {
     template: '%s - Daniel Cagney',
     default:
-      'Daniel Cagney - Aspiring software engineer, student, and amateur astronaut',
+      'Daniel Cagney - Software engineer, student, and amateur roboticist',
   },
   description:
     'I’m Daniel, a software engineer and student based in Cork City. \
-    I’m the founder and CEO of PropFama, where we develop technologies that empower real estate agents, property developers to explore their local community on their own terms.',
+    I’m the founder of Spork, where we develop technologies that empower real people, "Elevating Micro-SaaS: Swift, Superlative, Sustainable - Your Vision, Our Mission"',
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
